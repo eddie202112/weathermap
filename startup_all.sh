@@ -32,7 +32,7 @@ if [ -z "$CIPHER" ]; then
     CIPHER=default
 fi
 if [ -z "$PROJECT" ]; then
-    PROJECT=cn-north-1
+    PROJECT=cn-north-4
 fi
 
 if [ -z "$SK" ] || [ -z "$AK" ]; then

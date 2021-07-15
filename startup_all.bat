@@ -17,14 +17,14 @@ if "%akskCustomCipher%" == "" (
     set akskCustomCipher=default
 )
 if "%project%" == "" (
-    set project=cn-north-1
+    set project=cn-north-4
 )
 
 REM prepare cse microservice.yaml
 REM cse:
 REM  credentials:
-REM    accessKey: yourak
-REM    secretKey: yoursk
+REM    accessKey: CFZHD3EMCHBTJIA0U7MA
+REM    secretKey: wzHJvDrOeyitUz73CotdpUt4Rt6YikauTWxqq896
 REM    akskCustomCipher: default
 :microservice
 echo APPLICATION_ID: weathermap> microservice.yaml

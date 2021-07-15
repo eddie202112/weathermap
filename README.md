@@ -8,7 +8,7 @@
 * **Java 8 +**  and **Node 4.8.4+**
 * Modify file **credentials**, set with your own **AS/SK**. 
 
-> Default **project** is **cn-north-1**. To modify it, you can simply set the following property in **credentials** :
+> Default **project** is **cn-north-4**. To modify it, you can simply set the following property in **credentials** :
 
 ```
 project=xxx
